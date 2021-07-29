@@ -1,4 +1,1 @@
-# hello-world
-test
-?
-nowość
+# test
